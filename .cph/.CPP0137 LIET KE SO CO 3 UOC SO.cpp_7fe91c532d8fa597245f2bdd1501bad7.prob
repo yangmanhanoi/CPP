@@ -1,0 +1,1 @@
+{"name":"Local: CPP0137 LIET KE SO CO 3 UOC SO","url":"c:\\CPP\\CPP0137 LIET KE SO CO 3 UOC SO.cpp","tests":[{"id":1655978627852,"input":"2\n1 10\n1 1000000000000","output":"2\n78498"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\CPP0137 LIET KE SO CO 3 UOC SO.cpp","group":"local","local":true}

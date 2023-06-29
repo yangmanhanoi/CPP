@@ -1,0 +1,1 @@
+{"name":"Local: CPP0711 SINH NHI PHAN","url":"c:\\CPP\\CPP0711 SINH NHI PHAN.cpp","tests":[{"id":1652926734687,"input":"2\n2\n3","output":"00 01 10 11\n000 001 010 011 100 101 110 111"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\CPP0711 SINH NHI PHAN.cpp","group":"local","local":true}

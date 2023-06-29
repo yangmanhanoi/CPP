@@ -1,0 +1,1 @@
+{"name":"Local: DSA QUAY LUI NGUOI DI DU LICH","url":"c:\\CPP\\DSA QUAY LUI NGUOI DI DU LICH.cpp","tests":[{"id":1656472874935,"input":"4\n0 85 26 81 \n85 0 77 97 \n26 77 0 26 \n81 97 26 0","output":"234"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\DSA QUAY LUI NGUOI DI DU LICH.cpp","group":"local","local":true}

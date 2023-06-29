@@ -1,0 +1,1 @@
+{"name":"Local: CPP0120 SO CHIA HET CHO A VA B","url":"c:\\CPP\\CPP0120 SO CHIA HET CHO A VA B.cpp","tests":[{"id":1655831846294,"input":"2\n5 11 4 6\n3 1000 5 9","output":"2\n289"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\CPP0120 SO CHIA HET CHO A VA B.cpp","group":"local","local":true}

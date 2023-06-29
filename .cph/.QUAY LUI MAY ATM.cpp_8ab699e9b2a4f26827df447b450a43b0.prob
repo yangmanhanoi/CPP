@@ -1,0 +1,1 @@
+{"name":"Local: QUAY LUI MAY ATM","url":"c:\\CPP\\QUAY LUI MAY ATM.cpp","tests":[{"id":1655140270022,"input":"6 30\n10 4 10 5 8 8 ","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\QUAY LUI MAY ATM.cpp","group":"local","local":true}

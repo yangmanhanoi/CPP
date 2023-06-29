@@ -1,0 +1,1 @@
+{"name":"Local: Luyencode DU AN","url":"c:\\CPP\\Luyencode DU AN.cpp","tests":[{"id":1653904062046,"input":"3 10\n4 5 7\n3 4 8","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\Luyencode DU AN.cpp","group":"local","local":true}

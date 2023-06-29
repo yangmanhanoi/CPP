@@ -1,0 +1,1 @@
+{"name":"Local: CPP0139 SO SMITH","url":"c:\\CPP\\CPP0139 SO SMITH.cpp","tests":[{"id":1655981524559,"input":"2\n4\n666","output":"YES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\CPP0139 SO SMITH.cpp","group":"local","local":true}

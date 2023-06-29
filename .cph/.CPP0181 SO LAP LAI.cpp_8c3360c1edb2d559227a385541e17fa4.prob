@@ -1,0 +1,1 @@
+{"name":"Local: CPP0181 SO LAP LAI","url":"c:\\CPP\\CPP0181 SO LAP LAI.cpp","tests":[{"id":1655887829158,"input":"2\n2  2  3\n123 5  2","output":"2\n123"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\CPP0181 SO LAP LAI.cpp","group":"local","local":true}

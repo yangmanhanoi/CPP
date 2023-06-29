@@ -1,0 +1,1 @@
+{"name":"Local: CPP0728 CONG 1 VA NHAN DOI","url":"c:\\CPP\\CPP0728 CONG 1 VA NHAN DOI.cpp","tests":[{"id":1655962064608,"input":"3\n62  7\n76  2\n3  5","output":"9\n73\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\CPP0728 CONG 1 VA NHAN DOI.cpp","group":"local","local":true}

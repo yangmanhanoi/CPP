@@ -1,0 +1,1 @@
+{"name":"Local: CPP0338 DEM XAU CON","url":"c:\\CPP\\CPP0338 DEM XAU CON.cpp","tests":[{"id":1652930687033,"input":"2\nabc  2\naba  2","output":"2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\CPP0338 DEM XAU CON.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Hackerank XEP VI TRI","url":"c:\\CPP\\Hackerank XEP VI TRI.cpp","tests":[{"id":1653561368412,"input":"3\nLan Ngoc Nhung","output":"Lan Ngoc Nhung \nLan Nhung Ngoc \nNgoc Lan Nhung \nNgoc Nhung Lan \nNhung Lan Ngoc \nNhung Ngoc Lan"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\Hackerank XEP VI TRI.cpp","group":"local","local":true}

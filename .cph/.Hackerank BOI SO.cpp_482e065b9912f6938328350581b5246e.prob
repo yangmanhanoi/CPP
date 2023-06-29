@@ -1,0 +1,1 @@
+{"name":"Local: Hackerank BOI SO","url":"c:\\CPP\\Hackerank BOI SO.cpp","tests":[{"id":1653815531503,"input":"6\n240\n19\n55\n47\n287\n247","output":"8880\n88008\n880\n80088\n8088808\n8000000008"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\Hackerank BOI SO.cpp","group":"local","local":true}

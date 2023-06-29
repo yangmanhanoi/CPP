@@ -1,0 +1,1 @@
+{"name":"Local: CPP0241 BIEN DOI DAY SO","url":"c:\\CPP\\CPP0241 BIEN DOI DAY SO.cpp","tests":[{"id":1655892152707,"input":"2\n5\n3 2 3 3 5\n4\n5 3 3 4","output":"1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\CPP0241 BIEN DOI DAY SO.cpp","group":"local","local":true}

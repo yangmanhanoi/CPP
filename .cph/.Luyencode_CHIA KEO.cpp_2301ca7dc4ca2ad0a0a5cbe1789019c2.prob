@@ -1,0 +1,1 @@
+{"name":"Local: Luyencode_CHIA KEO","url":"c:\\CPP\\Luyencode_CHIA KEO.cpp","tests":[{"id":1652804434417,"input":"3 5","output":"2\n2 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CPP\\Luyencode_CHIA KEO.cpp","group":"local","local":true}
